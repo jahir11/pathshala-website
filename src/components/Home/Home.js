@@ -2,16 +2,22 @@ import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
 import { Button, Col, Container, Image, Row } from 'react-bootstrap';
+import { useHistory } from "react-router-dom";
 import HomeService from '../HomeService/HomeService';
 import img from './image/home.jpg'
 
 const Home = () => {
     const [services, setServices] = useState([])
+    const history = useHistory()
     useEffect(() => {
         fetch('./homeService.JSON')
         .then(res  => res.json())
         .then(data => setServices(data))
     }, [])
+
+    const handleAllService = () =>{
+        history.push('/services')
+    }
     return (
         <div>
         <Container>
@@ -20,7 +26,7 @@ const Home = () => {
                 <div>
                     <h1> <b className="text-info ">Complete Your Dreams</b> <br /> With <b className="text-danger">Path</b>shala</h1>
                     <p className="text-black-50 pt-2">Learn any course in the distance and for a reasonable fee. You don't have to struggle alone, you've got our assistance and help. </p>
-                    <Button variant="info text-white mt-2">See All Service</Button>
+                    <Button onClick={handleAllService} variant="info text-white mt-2">See All Service</Button>
                 </div>
                 </Col>
                 <Col xs={12} md={6} className="order-0 order-md-1">

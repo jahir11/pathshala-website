@@ -8,6 +8,7 @@ import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Support from './components/Facilities/Facilities';
 import Services from './components/Services/Services';
+import ServiceDetail from './components/ServiceDetail/ServiceDetail';
 
 function App() {
   return (
@@ -27,10 +28,13 @@ function App() {
             <Route path="/services">
               <Services></Services>
             </Route>
+            <Route path="/services/:serviceId">
+              <ServiceDetail></ServiceDetail>
+            </Route>
             <Route path="/facilities">
               <Support></Support>
             </Route>
-            <Route exact path="*">
+            <Route path="*">
               <NotFound></NotFound>
             </Route>
           </Switch>

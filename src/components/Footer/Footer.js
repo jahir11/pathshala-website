@@ -8,7 +8,7 @@ const Footer = () => {
         padding: '5px'
     }
     return (
-        <div className="container bg- py-4 d-flex d-flex justify-content-evenly">
+        <div className="container-fluid bg-light py-2 mt-4 d-flex d-flex justify-content-evenly">
             <hr />
             <h1><b className="text-danger">Path</b>shala</h1>
             <div>
