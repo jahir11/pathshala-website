@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# Pathshala
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with Create React App [Pathshala](https://path-shala.netlify.app/).
 
+# Pathshala is an online learning platform
+# Pathshala has many services
+# You can buy our services and develop your skill
 ## Available Scripts
 
 In the project directory, you can run:
