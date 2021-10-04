@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Graphic Design",
+      "title": "Professional Graphic Design",
+      "about": "The main purpose here is to make you able to use the graphic design tools and techniques in a professional way. Graphic Design helps to build the brand identity of a company. Thus it needs to be conceptual and unique to represent a company, brand or any kind of products or services. The module is designed to cover all aspects of Graphic Design and it is mostly helpful for a fresher who can start afresh. To know more about the module, take a look in the highlights of the module and get insights of how we are conducting the course.",
+      "Duration": "6 Months",
+      "img": "https://assets.justinmind.com/wp-content/uploads/2020/08/Gravit-screenshot-SVG-Editors-Justinmind-1.png",
+      "Class": 48
+    },
+    {
+        "id": 2,
+      "name": "Web Design",
+      "title": "Responsive Web Design",
+      "about": "Web design means creating websites with a user-friendly structure and with an aesthetic approach. A web designers always think about the layout, color scheme and unique design of a website. But their task does not just end there. They also work hard to create a user-friendly navigation system. They also need to rank their websites and for that, they need to do some SEO tasks too. In short Web Designer can be denoted as a front-end designer or an experienced designer. A web designer needs to design such interface that will be comfortable, attractive and friendly to the visitors. But it also needs to be responsive that user can use it in different devices as per their choices. In Creative IT Institute, we will delegate our students with the modern and the most up-to-date techniques that will bring out their talents to be successful web designers.",
+      "Duration": "6 Months",
+       "img":"https://www.pngitem.com/pimgs/m/531-5312189_web-app-development-free-svg-for-web-design.png",
+      "Class": 60
+    },
+    {
+        "id": 3,
+      "name": "Web Development",
+      "title": "Professional Web Development",
+      "about": "Web Development consists of two segments: front end development and backend development. Front-end Developers work with visual designs of a website and build the sites using code. The front end developer builds the structure of a website using HTML, then change the layout using CSS and sometimes uses javascript too. Besides Backend developers work with more advanced issues. They work with API (Application Programming Interfaces), CGI programs and sometimes script like PHP. Websites functionality is their main concern.",
+      "Duration": "1 year",
+      "img": "https://images.cdn2.stockunlimited.net/preview1300/web-coding_1950592.jpg",
+      "Class": 78
+    },
+    {
+        "id": 4,
+      "name": "Digital Marketing",
+      "title": "Digital Marketing",
+      "about": "Creative IT institute, a leading IT training institute in Bangladesh, has set its eye on providing the necessary support to individuals who want to exploit the opportunity and make their mark in digital marketing.Our digital marketing course will not only enable you to have a good understanding of the fundamentals of digital marketing but also generate a strategy for career growth.To help you understand the market behavior and formulate a productive approach, we have covered all the aspects of digital marketing in our course. After completing the course, you will have an in-depth understanding of SEO & Affiliate Marketing and how to envision the market scenarios and use them to good effect.",
+      "Duration": "6 Months",
+      "img": "https://digitalconsulting.co.za/wp-content/uploads/2019/01/shutterstock_460329727.jpg",
+      "Class": 45
+    }
+]

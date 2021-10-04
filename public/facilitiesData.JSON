@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "24/7 Online Support",
+      "description": "24/7 Online Support- We always listen to our students. Any time they are in a problem, our team is always online for providing support to them. Even at night, we are online for your projects ongoing.",
+      "img": "https://cdn4.iconfinder.com/data/icons/contact-us-set-1-7/64/Contact_us_1-09-512.png"
+    },
+    {
+      "id": 2,
+      "name": "Lifetime Support",
+      "description": "All CITI students get supports for life. For any live project get our experts guideline and maintain it in international standard.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZy2jOzWrb9zcAfKlup0QX1MHglfUrjkw-6g&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Practice Lab Support",
+      "description": "We offer lab practise facilities for weak students where they can practice the task and be able to hold the attention by solving what is not understood by them.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3jQjCfnBFtmsmS7usY5XyvGEIVBDCy24SA&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Class Video",
+      "description": "Get the recorded lectures and class practical as video. It will create a good storage of materials for future. And you can practice at home with the help of these materials.",
+      "img": "https://cdn1.vectorstock.com/i/1000x1000/22/00/man-holding-smartphone-in-hand-and-watching-video-vector-3112200.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Review Class",
+      "description": "Ensure 100% learning of tools, techniques, designs by our review classes for each batch. Better understand the difficult terms by revising every topic.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpnGgdQCItgwwrKyIklwwdUv9t1OJY50KdmeOUVX75Ok9lsxLfZG_qL4UDx3YeuTTxJrw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Job Placement",
+      "description": "Acquire exclusive opportunities to work in international marketplaces as an expert freelancer. CITI creates opportunities by adding value to your career.",
+      "img": "https://cdn.iconscout.com/icon/premium/png-256-thumb/online-class-time-2147395-1805456.png"
+    }
+  ]
